@@ -1,4 +1,4 @@
-this is for reproducing core dump issue.
+this is for reproducing core dump issue. https://github.com/tensorflow/io/issues/1828
 
 ```sh
 $ bazel build //:main
